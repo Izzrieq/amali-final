@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 11, 2023 at 05:25 AM
+-- Generation Time: Jul 11, 2023 at 05:37 AM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 8.2.0
 
@@ -40,8 +40,12 @@ CREATE TABLE `senaraipekerja` (
 --
 
 INSERT INTO `senaraipekerja` (`id`, `namapekerja`, `nokp`, `jantina`, `nohp`) VALUES
-(201, 'niko', '030512140435', 'lelaki', '0136498589'),
-(111, 'ali bin salib', '030612435987', 'lelaki', '0136498521');
+(3, 'ANIQ NAUFAL BIN MUHAMMAD AZRAEL', '020826816016', 'lelaki', '01162190345'),
+(2, 'MUHAMMAD ANAS BIN SUHAIMI', '030531100199', 'lelaki', '0169520918'),
+(4, 'ISHUARIYAA A/P PONAN', '030610080616', 'perempuan', '01133688927'),
+(1, 'ANIQ NAUFAL BIN SALEHUDDIN', '031021101671', 'lelaki', '801117141009'),
+(6, 'ANIS ZAHIRA BINTI AZRAF', '080820106422', 'perempuan', '0133138765'),
+(5, 'MUHAMMAD ADAM BIN NAZRI', '850902140975', 'lelaki', '0133138765');
 
 -- --------------------------------------------------------
 

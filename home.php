@@ -28,8 +28,8 @@ include ('db_conn.php');
                 <td class="head">ID</td>
                 <td class="head">NAMA PEKERJA</td>
                 <td class="head">NO KP</td>
-                <td class="head">NO HP</td>
                 <td class="head">JANTINA</td>
+                <td class="head">NO HP</td>
                 <td class="head"></td>
             </tr>
             <?php
