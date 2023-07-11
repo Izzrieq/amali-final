@@ -1,0 +1,50 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: black;
+}
+.nav{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 5px;
+    margin-bottom: 25px;
+}
+.nav button{
+    border-radius: 5px;
+    background-color: black;
+}
+.nav button a{
+    text-decoration: none;
+    color: white;
+}
+.addform{
+    background-color: white;
+    width: 20%;
+    border-radius: 10px;
+}
+table{
+    margin: 20px;
+}
+tr{
+    padding: 20px;
+}
+td{
+    padding: 10px;
+}
+.buttonnav{
+    padding: 20px;
+    justify-content: space-between;
+    display: flex;
+}
+.add{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.clear{
+    background-color: rgb(116, 116, 116);
+    color: white;
+    border-radius: 5px;
+}
